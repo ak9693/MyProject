@@ -1,0 +1,7 @@
+# Buggy File Example
+
+def buggy_function():
+    x = 10
+    y = 0
+    return x / y  # Division by zero error (bug)
+
